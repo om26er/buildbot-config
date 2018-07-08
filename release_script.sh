@@ -1,3 +1,3 @@
 set -ev
 
-ls -la
+uname -a
